@@ -1,16 +1,18 @@
 #Hack Sink Ship
-Scripts para fazer o fluxo de trabalho Hack Sink Ship.
-Mais sobre: http://reinh.com/blog/2008/08/27/hack-and-and-ship.html
+Advanced HACKing and SHIPing.
+New feature: SINKink
+
+Original: http://reinh.com/blog/2008/08/27/hack-and-and-ship.html
+
 
 ##Hack
-Cria um branch para sua feature
+Use before development
 
 ##Sink
-Sincroniza com o master.
+Use during development
 
 ##Ship
-Envia a sua aplicação para o origin.
+Use after development
 
-###Commit
-Script no qual é facilitado o processo de commit.
 
+and be happy!
