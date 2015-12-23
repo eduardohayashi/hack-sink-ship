@@ -1,0 +1,14 @@
+{
+    "name": "eduardohayashi/hack-sink-ship",
+    "description": "Advanced Hack Sink and Ship for developers",
+    "type": "library",
+    "keywords": ["hack","sink", "ship"],
+    "homepage": "https://github.com/eduardohayashi/hack-sink-ship",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Hayashi",
+            "email": "eduardo@eduardohayashi.com"
+        }
+    ]
+}
